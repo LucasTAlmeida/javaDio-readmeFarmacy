@@ -1,0 +1,37 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+Data: [data de início do projeto] Empresa: Abstergo Industries Responsável: [nome do responsável pelo projeto]
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1: - Amazon EC2:
+
+Utilize instâncias reservadas: Economize até 70% em comparação com instâncias sob demanda.
+Instâncias Spot: Use instâncias Spot para economizar até 90% sobre o preço de instâncias sob demanda.
+Desligue instâncias não utilizadas: Evite custos desnecessários desligando instâncias que não estão em uso.
+Redimensione instâncias superdimensionadas: Ajuste o tamanho das suas instâncias para adequar-se às necessidades reais.
+Atualize para instâncias de geração mais moderna: Novas gerações podem oferecer melhor desempenho por um custo menor
+
+Etapa 2: - Amazon S3:
+
+Classes de armazenamento: Use classes de armazenamento apropriadas para seus padrões de acesso aos dados.
+S3 Intelligent-Tiering: Mova automaticamente os dados para o nível de acesso mais econômico sem sobrecarga operacional.
+Gerenciamento do ciclo de vida: Implemente políticas para arquivar ou excluir dados antigos ou não usados.
+
+Etapa 3: -Amazon RDS:
+
+Instâncias reservadas: Para workloads constantes e previsíveis, as instâncias reservadas podem oferecer economias significativas.
+Automatize backups e patches: Reduza os encargos administrativos automatizando tarefas de gerenciamento de banco de dados.
+
+Conclusão
+A implementação de ferramentas na empresa [nome da empresa] tem como esperado [benefícios das ferramentas], o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+Anexos
+[lista de anexos, como manuais, documentos, planilhas, entre outros]
+
+Assinatura do Responsável pelo Projeto:
+
+Lucas Teixeira de Almeida
